@@ -1,1 +1,1 @@
-# odoo--api_powerbi
+# odoo-api_powerbi
